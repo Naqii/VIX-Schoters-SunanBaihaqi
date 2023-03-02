@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "374326186016",
+    "project_id": "news-6df66",
+    "storage_bucket": "news-6df66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374326186016:android:cb7a322ea11d40f48cac45",
+        "android_client_info": {
+          "package_name": "com.example.vixschoters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374326186016-4pr79qjd1ojv9udt170j44vivob471kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vixschoters",
+            "certificate_hash": "9c2c34f3e3ec07af42862228d7c24db981a75ad5"
+          }
+        },
+        {
+          "client_id": "374326186016-9c3d5m192q8tu97ogoulu8rm0n8gta8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16WLJs3IexFhKlUt4Ggp37bWYG8_5bOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374326186016-9c3d5m192q8tu97ogoulu8rm0n8gta8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

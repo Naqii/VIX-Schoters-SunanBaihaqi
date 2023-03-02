@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ViXSchoters</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="business_fragment">Business Fragment</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Business</string>
+    <string name="tablayout">TabLayout</string>
 </resources>
